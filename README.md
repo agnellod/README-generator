@@ -29,11 +29,11 @@ MIT
 
 ## Screen Shot
 
-will be adding a video
+
 
 ## Tests
 
-N/A
+https://drive.google.com/file/d/1juu_L4UdPvPUScMi6t9yeKor9VAPt2cH/view
 
 ## Questions 
 
