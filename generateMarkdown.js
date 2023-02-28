@@ -20,7 +20,7 @@ function renderLicenseLink(license) {
 function generateMarkdown(answers) {
   return `# ${answers.projectTitle}
 
-## descriptions
+## Descriptions
 
 ${answers.description}
 

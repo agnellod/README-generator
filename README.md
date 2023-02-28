@@ -1,6 +1,6 @@
 # Project-7
 
-## descriptions
+## Descriptions
 
 I made a README generator through the terminal and used node to make it work. It allows you to create a README file and select a license to attach to it.
 
@@ -19,7 +19,7 @@ just use the terminal
 
 Creating a README file for your repository
 
-## license
+## License
 
 [MIT license](https://opensource.org/license/mit/)
 
@@ -27,22 +27,22 @@ Creating a README file for your repository
 
 MIT
 
-## screen shot
+## Screen Shot
 
 will be adding a video
 
-## tests
+## Tests
 
-none
+N/A
 
-## questions 
+## Questions 
 
 Message me on GitHub
 
-## credits
+## Credits
 
 https://github.com/agnellod
 
-## email
+## Email
 
-Agnello.dylan95@gmail.com
+agnello.dylan95@gmail.com
