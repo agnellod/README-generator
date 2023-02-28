@@ -1,20 +1,20 @@
 # project 7
    ## descriptions
-   used node to create a readme generator
+   readme generator
    ## Installation
-   none
+   use node to make a readme through the terminal
    ## Usage
-   creating a readme
+   making readme
    ## license
   // maybe make function for different licenses
-   ## contributing
-   myself
+   ## screen shot
+   C:\Users\Agnel\OneDrive\Pictures\Screenshots\Screenshot_20230204_031204.png
    ## tests
-   no
+   none
    ## questions 
    google
    ## username
-   agnellod95
+   agnelllod95
    ## email
-   agnello.dylan95@gmail.com
+   gmail.com
  

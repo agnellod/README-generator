@@ -1,6 +1,8 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+function renderLicenseBadge(license) {
+  
+}
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -20,9 +22,9 @@ function generateMarkdown(answers) {
    ## Usage
    ${answers.usage}
    ## license
-  // maybe make function for different licenses
-   ## contributing
-   ${answers.contributing}
+   ${answers.license}
+   ## screen shot
+   ${answers.screenShot}
    ## tests
    ${answers.tests}
    ## questions 

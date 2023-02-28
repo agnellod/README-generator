@@ -31,18 +31,16 @@ inquirer
         message: "Chose the appropriate license for this project: ",
         choices: [
             "Apache",
-            "Academic",
             "GNU",
-            "ISC",
             "MIT",
             "Mozilla",
-            "Open"
+            
         ]
     },
     {
         type: "input",
-        name: "contributing",
-        message: "Who are the contributors of this projects?"
+        name: "screenShot",
+        message: "please enter realtive path for your screen shot."
     },
     {
         type: "input",
@@ -67,6 +65,7 @@ inquirer
 ])
 .then((answers) => {
     let projectTitle = answers.projectTitle
+    // let description = answers.description
     fs.writeFile('README.md', generateMarkdown(answers), (err) =>
       err ? console.log(err) : console.log('Successfully created README!')
     );
