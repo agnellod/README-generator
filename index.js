@@ -32,9 +32,9 @@ inquirer
         choices: [
             "Apache",
             "GNU",
+            "ISC",
             "MIT",
             "Mozilla",
-            
         ]
     },
     {

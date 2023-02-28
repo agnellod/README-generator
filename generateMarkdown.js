@@ -39,7 +39,7 @@ ${answers.installation}
 
 ${answers.usage}
 
-## license
+## License
 
 ${renderLicenseLink(answers.license)}
 
@@ -47,23 +47,23 @@ ${renderLicenseLink(answers.license)}
 
 ${answers.license}
 
-## screen shot
+## Screen Shot
 
 ${answers.screenShot}
 
-## tests
+## Tests
 
 ${answers.tests}
 
-## questions 
+## Questions 
 
 ${answers.questions}
 
-## credits
+## Credits
 
 ${answers.username}
 
-## email
+## Email
 
 ${answers.email}
 `;
